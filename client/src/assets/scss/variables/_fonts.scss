@@ -1,0 +1,33 @@
+// Import Font
+// @import 'fonts/Franklin2/stylesheet';
+// @import 'fonts/Mont/stylesheet';
+@import 'fonts/ibmplex/stylesheet';
+
+// Typefaces
+$font-regular : 'ibm_plex_sansregular';
+$font-regularItalic : 'ibm_plex_sansitalic';
+$font-light : 'ibm_plex_sanslight';
+$font-lightItalic : 'ibm_plex_sanslight_italic';
+$font-medium : 'ibm_plex_sansmedium';
+$font-mediumItalic : 'ibm_plex_sansmedium_italic';
+$font-semiBold : 'ibm_plex_sanssemibold';
+$font-semiBoldItalic : 'ibm_plex_sanssemibold_italic';
+$font-bold : 'ibm_plex_sansbold';
+$font-boldItalic : 'ibm_plex_sansbold_italic';
+
+// text sizes
+// $text-x-large: 3.4rem;
+// $text-large: 2.4rem;
+// $text-medium: 2rem;
+// $text-small: 1.8rem;
+// $text-x-small: 1.5rem;
+
+$text-size-medium-large: 1.5rem;
+$text-size-medium: 1.25rem; //20px
+$text-size-normal-large: 1rem; //16px
+$text-size-normal: 0.88rem; //14px
+$text-size-small: 0.75rem; //12px
+$text-size-small-extra: 0.65rem; //10.4px
+
+// Global
+$primary-font: $font-regular;

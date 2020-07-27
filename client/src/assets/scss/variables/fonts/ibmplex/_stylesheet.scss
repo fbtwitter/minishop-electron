@@ -1,0 +1,99 @@
+$font_path: '~@/assets/scss/variables/fonts/ibmplex/';
+
+
+@font-face {
+    font-family: 'ibm_plex_sansbold';
+    src: url($font_path + 'ibmplexsans-bold-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansbold_italic';
+    src: url($font_path + 'ibmplexsans-bolditalic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansitalic';
+    src: url($font_path + 'ibmplexsans-italic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sanslight';
+    src: url($font_path + 'ibmplexsans-light-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sanslight_italic';
+    src: url($font_path + 'ibmplexsans-lightitalic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansmedium';
+    src: url($font_path + 'ibmplexsans-medium-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansmedium_italic';
+    src: url($font_path + 'ibmplexsans-mediumitalic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansregular';
+    src: url($font_path + 'ibmplexsans-regular-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sanssemibold';
+    src: url($font_path + 'ibmplexsans-semibold-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sanssemibold_italic';
+    src: url($font_path + 'ibmplexsans-semibolditalic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansthin';
+    src: url($font_path + 'ibmplexsans-thin-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ibm_plex_sansthin_italic';
+    src: url($font_path + 'ibmplexsans-thinitalic-webfont.woff2') format('woff2'),
+         url($font_path + 'ibmplexsans-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
